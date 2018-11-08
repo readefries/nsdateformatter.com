@@ -128,6 +128,24 @@
             <td>Narrow name of the month</td>
           </tr>
           <tr class="separator">
+            <td colspan="3">Week</td>
+          </tr>
+          <tr>
+            <td>w yyyy</td>
+            <td>37 2018</td>
+            <td>Week of the year. A single w will use 1 for the first week of the year.</td>
+          </tr>
+          <tr>
+            <td>ww yyyy</td>
+            <td>37 2018</td>
+            <td>Week of the year. A double w will use 01 for the first week of the year.</td>
+          </tr>
+          <tr>
+            <td>MMMM</td>
+            <td>3 May 2018</td>
+            <td>Week of month</td>
+          </tr>
+          <tr class="separator">
             <td colspan="3">Day</td>
           </tr>
           <tr>
